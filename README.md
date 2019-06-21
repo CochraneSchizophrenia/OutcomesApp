@@ -6,6 +6,9 @@ A more detailled description is given in this paper on Researchgate:
 
 https://www.researchgate.net/publication/331072382_Outcomes_App_-_to_automatically_populate_Characteristics_of_included_studies_table_in_any_ReviewManager_file
 
+The latest executable .jar file can be downloaded from the 'Releases' tab or from this link:
+https://github.com/CochraneSchizophrenia/OutcomesApp/releases
+
 Created by Lena Schmidt
 
 Big thanks to the creators of RevManHAL - their code was used to help dealing with all the special characters out there.
